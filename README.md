@@ -3,5 +3,5 @@ Meu perfil utilizando HTML e CSS / My profile by using HTML and CSS
 <br>
 <br>
 Obs.: Em andamento... / under construction...<br>
-FONTE: códigos realizados a partir do conteúdo aprendido no curso "Imerssão-CSS" da Alura disponível no link:
+<br>FONTE: códigos realizados a partir do conteúdo aprendido no curso "Imersão-CSS" da Alura disponível no link:
 https://www.alura.com.br/imersao-css
